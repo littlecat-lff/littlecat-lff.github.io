@@ -40,10 +40,6 @@ description: If you want something you've never had, you must be willing to do s
   </div>
   <blockquote>
     <ul>
-		{% for post in site.posts limit:5 %}  
-		  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>  
-		{% endfor %}  
-	  <!--
       {% for post in site.posts limit:3 %}
       <li class="post-list-in-index">
       <small class="post-list-date-in-index">
@@ -67,7 +63,6 @@ description: If you want something you've never had, you must be willing to do s
       {{ post.date | date: "%Y" }}</small><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
       </li>
       {% endfor %}
-	  -->
     </ul>
   </blockquote>
   <p>
