@@ -6,11 +6,11 @@ tags: Query
 ---
 
 
-# Predicting Latent Structured Intents from Shopping Queries
+
 * Author: Chao-Yuan Wu, Amr Ahmed
 * Time: www/2017
 
-# # 目标
+# 目标
 
 > In this paper we study the problem of inferring the latent intent from unstructured queries and mapping them to structured attributes.
 

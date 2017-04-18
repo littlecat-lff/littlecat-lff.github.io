@@ -19,16 +19,16 @@ layout: default
   <ul class="meta">
   	<i class="fa fa-calendar"></i>
   	{{ page.date | date: "%Y" }}年{{ page.date | date: "%m" }}月{{ page.date | date: "%d" }}日
-  	<i class="space"></i>
+  	<i class="space"></i><i class="space"></i>
   	<i class="fa fa-archive"></i>
   	<a class="tag" href="{{ site.url }}/blog/categories.html#{{ page.categories }}">{{ page.categories }}</a>
-  	<i class="space"></i>
+  	<i class="space"></i><i class="space"></i>
   	<i class="fa fa-tags"></i>
   	{% for tag in page.tags %}
   	    <a class="tag" href="{{ site.url }}/tag/#{{ tag }}">{{ tag }}</a>
   	    <i class="space"></i>
   	{% endfor %}
-  	<i class="space"></i> 字数:{{page.content | size |divided_by:2}}
+  	<i class="space"></i><i class="space"></i> 字数:{{page.content | size |divided_by:2}}
   </ul>
 </div>
 </div>
@@ -50,12 +50,12 @@ layout: default
 <ul class="pager">
     {% if page.previous.url %}
     <li class="previous">
-       <a href="{{page.previous.url}}">←{{page.previous.title}}</a>
+       <a href="{{page.previous.url}}">←Pre {{page.previous.title}}</a>
     </li>
     {% endif %}
     {% if page.next.url %}
     <li class="next">
-    	<a href="{{page.next.url}}">{{page.next.title}}→</a>
+    	<a href="{{page.next.url}}">NEXT→ {{page.next.title}}</a>
     </li>
     {% endif %}
  </ul>
