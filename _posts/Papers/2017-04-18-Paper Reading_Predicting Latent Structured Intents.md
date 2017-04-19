@@ -36,7 +36,7 @@ tags: Query
     - 感觉是为了在学习query到attribute映射时候加上一些先验知识, 以此来提高准确率.
 
 * 网络结构图为:
- <img src='../images/prediction_latent.JPG' />
+ <img src='../../images/prediction_latent.JPG' />
 
 * 实验结果
     - 实验数据来源于: google shop site的query 加上 google搜索query里识别为购物类型的query
