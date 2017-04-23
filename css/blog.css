@@ -497,7 +497,7 @@ img[alt=drawing] { width: 60%; }
 /*添加博文上一篇下一篇功能*/
 .pager {
     padding-left: 0;
-    margin: 20px 0;
+    margin: 10px 0;
     list-style: none;
     text-align: center;
 }
@@ -509,7 +509,7 @@ img[alt=drawing] { width: 60%; }
     display: inline-block;
     padding: 5px 14px;
     background-color: #fff;
-    border: 1px solid #ddd;
+    /*border: 1px solid #ddd;*/
     border-radius: 15px;
 }
 
@@ -532,9 +532,9 @@ img[alt=drawing] { width: 60%; }
      */
      font-family: "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
      line-height: 1.7;
-     font-size: 14px;
+     font-size: 10px;
      font-weight: 800;
-     letter-spacing: 1px;
+     /*letter-spacing: 1px;*/
      padding: 10px 5px;
      background-color: white;
      border-radius: 0;

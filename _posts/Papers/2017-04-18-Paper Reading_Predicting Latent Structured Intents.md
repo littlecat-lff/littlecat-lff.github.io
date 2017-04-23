@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predicting Latent Structured Intents from Shopping Queries
+title: Paper: Predicting Latent Structured Intents from Shopping Queries
 categories: [Paper]
 tags: Query
 ---
