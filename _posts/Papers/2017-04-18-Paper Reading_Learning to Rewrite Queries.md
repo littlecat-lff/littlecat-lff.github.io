@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper: Learning to Rewrite Queries
+title: Paper&#58 Learning to Rewrite Queries
 categories: [Paper]
 tags: Query
 ---

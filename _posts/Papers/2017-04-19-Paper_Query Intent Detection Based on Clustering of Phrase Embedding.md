@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper: Query Intent Detection Based on Clustering of Phrase Embedding
+title: Paper&#58 Query Intent Detection Based on Clustering of Phrase Embedding
 categories: [Paper]
 tags: Query
 ---
