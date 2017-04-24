@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog&#58 由送别想到的: 选择没有对错, 只有选择之后是否坚持了下去.
+title: Blog&#58 由送别想到的-选择没有对错, 只有选择之后是否坚持了下去.
 categories: [Life]
 tags: 随笔
 ---
