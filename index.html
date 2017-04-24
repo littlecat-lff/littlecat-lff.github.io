@@ -40,7 +40,7 @@ description: If you want something you've never had, you must be willing to do s
   </div>
   <blockquote>
     <ul>
-      {% for post in site.posts limit:3 %}
+      {% for post in site.posts limit:10 %}
       <li class="post-list-in-index">
       <small class="post-list-date-in-index">
       {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
