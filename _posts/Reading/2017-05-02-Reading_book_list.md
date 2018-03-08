@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading&#58 bias_term(偏置项,截距项)在ML和DL中的作用,为什么正则化不限制bias_term
+title: Reading&#Reading List
 categories: [Reading]
 tags: Other
 score: 90
