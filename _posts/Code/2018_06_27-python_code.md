@@ -1,4 +1,9 @@
-python 代码
+---
+layout: post
+title: Blog&#58 python 代码问题
+categories: [python]
+tags: python
+---
 
 ### 删除字符串中不可见字符
 
